@@ -1,0 +1,4 @@
+data/processed/
+.DS_Store
+.snakemake/
+__pycache__/
