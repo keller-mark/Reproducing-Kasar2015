@@ -36,6 +36,7 @@ rule signatures:
             --prior_on_H L1 \
             --objective poisson \
             --a 10 \
+            --K0 96 \
             --parameters_file {DATA_DIR}/parameters.tsv \
             --labeled
         """
