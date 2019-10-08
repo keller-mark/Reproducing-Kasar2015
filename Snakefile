@@ -35,7 +35,7 @@ rule signatures:
             --prior_on_W L1 \
             --prior_on_H L1 \
             --objective poisson \
-            --a 10 \
+            --a 5 \
             --K0 96 \
             --parameters_file {DATA_DIR}/parameters.tsv \
             --labeled
